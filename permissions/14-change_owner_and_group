@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -R vincent:staff . && for f in *; do stat -c '%U %G' "$f"; done
+sudo chown -R vincent:staff .
