@@ -1,2 +1,1 @@
-#!/bin/bash
-chmod 241 hello
+chown vincent:staff *
